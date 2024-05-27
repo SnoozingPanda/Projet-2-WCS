@@ -1,2 +1,2 @@
 # Projet-2-WCS
-Fichiers utilisés et créés pour un projet de recommandation de films
+Fichiers pour créer une applciation avec Streamlit dans le cadre d'un projet de recommandation de films
